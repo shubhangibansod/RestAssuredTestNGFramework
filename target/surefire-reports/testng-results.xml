@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-18T19:03:59 IST" name="Surefire suite" finished-at="2025-06-18T19:04:05 IST" duration-ms="6437">
+    <groups>
+    </groups>
+    <test started-at="2025-06-18T19:03:59 IST" name="Surefire test" finished-at="2025-06-18T19:04:05 IST" duration-ms="6437">
+      <class name="com.spotify.oauth2.tests.PlayListTest">
+        <test-method is-config="true" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.spotify.oauth2.tests.PlayListTest@1894593a]" started-at="2025-06-18T19:03:59 IST" name="BeforeMethod" finished-at="2025-06-18T19:03:59 IST" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.oauth2.tests.PlayListTest.ShouldNotBeAbleToCreatePlayListWithExpiredToken() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.spotify.oauth2.tests.PlayListTest@1894593a]" started-at="2025-06-18T19:03:59 IST" name="BeforeMethod" finished-at="2025-06-18T19:03:59 IST" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.oauth2.tests.PlayListTest.ShouldBeAbleToUpdatePlayList() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.spotify.oauth2.tests.PlayListTest@1894593a]" started-at="2025-06-18T19:03:59 IST" name="BeforeMethod" finished-at="2025-06-18T19:03:59 IST" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.oauth2.tests.PlayListTest.ShouldBeAbleToCreatePlayList() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.spotify.oauth2.tests.PlayListTest@1894593a]" started-at="2025-06-18T19:03:59 IST" name="BeforeMethod" finished-at="2025-06-18T19:03:59 IST" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.oauth2.tests.PlayListTest.ShouldBeAbleToGetPlayList() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:com.spotify.oauth2.tests.PlayListTest@1894593a]" started-at="2025-06-18T19:03:59 IST" name="BeforeMethod" finished-at="2025-06-18T19:03:59 IST" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.oauth2.tests.PlayListTest.ShouldNotBeAbleToCreatePlayListWithoutName() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="ShouldBeAbleToGetPlayList()[pri:0, instance:com.spotify.oauth2.tests.PlayListTest@1894593a]" started-at="2025-06-18T19:03:59 IST" name="ShouldBeAbleToGetPlayList" description="Should be able to get play list" finished-at="2025-06-18T19:04:05 IST" duration-ms="6000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToGetPlayList -->
+        <test-method signature="ShouldBeAbleToUpdatePlayList()[pri:0, instance:com.spotify.oauth2.tests.PlayListTest@1894593a]" started-at="2025-06-18T19:03:59 IST" name="ShouldBeAbleToUpdatePlayList" description="Should be able to update play list" finished-at="2025-06-18T19:04:05 IST" duration-ms="6040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToUpdatePlayList -->
+        <test-method signature="ShouldNotBeAbleToCreatePlayListWithExpiredToken()[pri:0, instance:com.spotify.oauth2.tests.PlayListTest@1894593a]" started-at="2025-06-18T19:03:59 IST" name="ShouldNotBeAbleToCreatePlayListWithExpiredToken" description="Should not be able to create playlist with expired token" finished-at="2025-06-18T19:04:04 IST" duration-ms="4695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldNotBeAbleToCreatePlayListWithExpiredToken -->
+        <test-method signature="ShouldNotBeAbleToCreatePlayListWithoutName()[pri:0, instance:com.spotify.oauth2.tests.PlayListTest@1894593a]" started-at="2025-06-18T19:03:59 IST" name="ShouldNotBeAbleToCreatePlayListWithoutName" description="Should not be able to create playlist without name" finished-at="2025-06-18T19:04:05 IST" duration-ms="5925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldNotBeAbleToCreatePlayListWithoutName -->
+        <test-method signature="ShouldBeAbleToCreatePlayList()[pri:0, instance:com.spotify.oauth2.tests.PlayListTest@1894593a]" started-at="2025-06-18T19:03:59 IST" name="ShouldBeAbleToCreatePlayList" description="Should be able to create play list" finished-at="2025-06-18T19:04:05 IST" duration-ms="6088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToCreatePlayList -->
+      </class> <!-- com.spotify.oauth2.tests.PlayListTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
